@@ -1,4 +1,5 @@
 #/usr/bin/env python
+
 '''
 Created on 21 juin 2013
 clique sur le graph pour afficher des barres verticales et enregistrer les coordonn'ees des donn'ees point'ees.
