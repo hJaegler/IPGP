@@ -1,7 +1,7 @@
 #! user/hugojaegler/Obspy/bin/python
 # _*_coding:Utf-8 _* 
 '''
-Created on 27 juin 2013
+Created on 1 juil. 2013
 
 @author: hugojaegler
 '''
@@ -11,7 +11,6 @@ import matplotlib.pyplot as plt
 from pylab import *
 from obspy.core import read
 from Tkinter import *
-
 
 class Interface(Frame):
     '''
@@ -51,6 +50,7 @@ parameters=[0,0,0]     # Paramètres choisis
 parameters[0],parameters[1], parameters[2]=interface.var_para1.get(), interface.var_para2.get(), interface.var_para3.get()
 
 print parameters
+
 
 '''
 On va maintenant afficher le sismo. On peut pointer dessus. 
@@ -95,3 +95,6 @@ linebuilder = LineBuilder(line)
 plt.show()
 print enregx    # Abscisse des points sélectionnés 
 print enregy    # Ordonnées lues sur le sismo
+
+if __name__ == '__main__':
+    pass
