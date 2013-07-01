@@ -1,8 +1,11 @@
 IPGP
 =====================================
+Code stage IPGP 2013 Hugo JAEGLER 
 
-Code stage IPGP 2013 Hugo JAEGLER \n
-Contact : hugo.jaegler [at] gmail.com \n
+=====================================
+Contact : hugo.jaegler [at] gmail.com
+
+=====================================
 Superviseur : Nobuaki Fuji
 
 
