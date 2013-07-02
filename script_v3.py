@@ -76,11 +76,12 @@ interface.destroy()
 print cbuts_var
 
 
+
 '''
-On va maintenant afficher le sismo. On peut pointer dessus. 
+On va maintenant demander d'entrer le nom du sismo afin de l'afficher et de pointer dessus. 
 '''
 
-X = read('ABU.20071031.Ts')
+X = read(raw_input('Which file\'s path ? ')) 
 
 fig = plt.figure()
 ax = fig.add_subplot(111)
