@@ -22,5 +22,6 @@ Ce code permet d'afficher deux fenêtres :
  
 This script allows to post two windows : 
  * the first one post a list of parameters.
- * the second window post a sismogram, on which we can point to store coordinates of points 
+ * the second window post caracteristics of the given sismogram
+ * the third one post the sismogram, on which we can point to store coordinates of points 
    on the sismogram.
